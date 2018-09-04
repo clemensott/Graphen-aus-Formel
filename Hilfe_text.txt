@@ -1,0 +1,3 @@
+Dieses Programm berechnet aus Formeln den Graphen und zeigt diesen an.
+
+Die Funktionen die das Programm beherscht sind die normalen Rechenoperationen (+, -, •, ÷), Potenz-/Wurzelfunktionen, die sechs trigometrischen Funktionen (sin, cos , tan, arcsin, arccos, arctan)(Winkelangaben im Bogenmaß), die 3 Logarithmischen Funktionen (ln, lg, log)

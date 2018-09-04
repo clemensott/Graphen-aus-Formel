@@ -1,0 +1,95 @@
+c:\users\clemens\documents\visual studio 2012\Projects\Graphen aus Formel\Graphen aus Formel\bin\Debug\Graphen aus Formel.exe.config
+c:\users\clemens\documents\visual studio 2012\Projects\Graphen aus Formel\Graphen aus Formel\bin\Debug\Graphen aus Formel.exe
+c:\users\clemens\documents\visual studio 2012\Projects\Graphen aus Formel\Graphen aus Formel\bin\Debug\Graphen aus Formel.pdb
+c:\users\clemens\documents\visual studio 2012\Projects\Graphen aus Formel\Graphen aus Formel\obj\Debug\Graphen aus Formel.csprojResolveAssemblyReference.cache
+c:\users\clemens\documents\visual studio 2012\Projects\Graphen aus Formel\Graphen aus Formel\obj\Debug\Graphen_aus_Formel.Form1.resources
+c:\users\clemens\documents\visual studio 2012\Projects\Graphen aus Formel\Graphen aus Formel\obj\Debug\Graphen_aus_Formel.Properties.Resources.resources
+c:\users\clemens\documents\visual studio 2012\Projects\Graphen aus Formel\Graphen aus Formel\obj\Debug\Graphen aus Formel.csproj.GenerateResource.Cache
+c:\users\clemens\documents\visual studio 2012\Projects\Graphen aus Formel\Graphen aus Formel\obj\Debug\Graphen aus Formel.exe
+c:\users\clemens\documents\visual studio 2012\Projects\Graphen aus Formel\Graphen aus Formel\obj\Debug\Graphen aus Formel.pdb
+G:\Users\Clemens\Desktop\Graphen aus Formel\Graphen aus Formel\bin\Debug\Graphen aus Formel.exe.config
+G:\Users\Clemens\Desktop\Graphen aus Formel\Graphen aus Formel\obj\Debug\Graphen aus Formel.exe
+G:\Users\Clemens\Desktop\Graphen aus Formel\Graphen aus Formel\obj\Debug\Graphen aus Formel.pdb
+G:\Users\Clemens\Desktop\Graphen aus Formel\Graphen aus Formel\bin\Debug\Graphen aus Formel.exe
+G:\Users\Clemens\Desktop\Graphen aus Formel\Graphen aus Formel\bin\Debug\Graphen aus Formel.pdb
+G:\Users\Clemens\Desktop\Graphen aus Formel\Graphen aus Formel\obj\Debug\Graphen aus Formel.csprojResolveAssemblyReference.cache
+G:\Users\Clemens\Desktop\Graphen aus Formel\Graphen aus Formel\obj\Debug\Graphen_aus_Formel.Form1.resources
+G:\Users\Clemens\Desktop\Graphen aus Formel\Graphen aus Formel\obj\Debug\Graphen_aus_Formel.Properties.Resources.resources
+G:\Users\Clemens\Desktop\Graphen aus Formel\Graphen aus Formel\obj\Debug\Graphen aus Formel.csproj.GenerateResource.Cache
+D:\Graphen aus Formel\Graphen aus Formel\bin\Debug\Graphen aus Formel.exe.config
+D:\Graphen aus Formel\Graphen aus Formel\obj\Debug\Graphen aus Formel.exe
+D:\Graphen aus Formel\Graphen aus Formel\obj\Debug\Graphen aus Formel.pdb
+D:\Graphen aus Formel\Graphen aus Formel\bin\Debug\Graphen aus Formel.exe
+D:\Graphen aus Formel\Graphen aus Formel\bin\Debug\Graphen aus Formel.pdb
+D:\Graphen aus Formel\Graphen aus Formel\obj\Debug\Graphen aus Formel.csprojResolveAssemblyReference.cache
+D:\Graphen aus Formel\Graphen aus Formel\obj\Debug\Graphen_aus_Formel.Form1.resources
+D:\Graphen aus Formel\Graphen aus Formel\obj\Debug\Graphen_aus_Formel.Properties.Resources.resources
+D:\Graphen aus Formel\Graphen aus Formel\obj\Debug\Graphen aus Formel.csproj.GenerateResource.Cache
+G:\Graphen aus Formel\Graphen aus Formel\bin\Debug\Graphen aus Formel.exe.config
+G:\Graphen aus Formel\Graphen aus Formel\obj\Debug\Graphen aus Formel.exe
+G:\Graphen aus Formel\Graphen aus Formel\obj\Debug\Graphen aus Formel.pdb
+G:\Graphen aus Formel\Graphen aus Formel\bin\Debug\Graphen aus Formel.exe
+G:\Graphen aus Formel\Graphen aus Formel\bin\Debug\Graphen aus Formel.pdb
+G:\Graphen aus Formel\Graphen aus Formel\obj\Debug\Graphen aus Formel.csprojResolveAssemblyReference.cache
+G:\Graphen aus Formel\Graphen aus Formel\obj\Debug\Graphen_aus_Formel.Form1.resources
+G:\Graphen aus Formel\Graphen aus Formel\obj\Debug\Graphen_aus_Formel.Properties.Resources.resources
+G:\Graphen aus Formel\Graphen aus Formel\obj\Debug\Graphen aus Formel.csproj.GenerateResource.Cache
+C:\Users\Clemens\Documents\Visual Studio 2012\Projects\Graphen aus Formel - Kopie\Graphen aus Formel\bin\Debug\Graphen aus Formel.exe.config
+C:\Users\Clemens\Documents\Visual Studio 2012\Projects\Graphen aus Formel - Kopie\Graphen aus Formel\obj\Debug\Graphen aus Formel.exe
+C:\Users\Clemens\Documents\Visual Studio 2012\Projects\Graphen aus Formel - Kopie\Graphen aus Formel\obj\Debug\Graphen aus Formel.pdb
+C:\Users\Clemens\Documents\Visual Studio 2012\Projects\Graphen aus Formel - Kopie\Graphen aus Formel\bin\Debug\Graphen aus Formel.exe
+C:\Users\Clemens\Documents\Visual Studio 2012\Projects\Graphen aus Formel - Kopie\Graphen aus Formel\bin\Debug\Graphen aus Formel.pdb
+C:\Users\Clemens\Documents\Visual Studio 2012\Projects\Graphen aus Formel - Kopie\Graphen aus Formel\obj\Debug\Graphen aus Formel.csprojResolveAssemblyReference.cache
+C:\Users\Clemens\Documents\Visual Studio 2012\Projects\Graphen aus Formel - Kopie\Graphen aus Formel\obj\Debug\Graphen_aus_Formel.Form1.resources
+C:\Users\Clemens\Documents\Visual Studio 2012\Projects\Graphen aus Formel - Kopie\Graphen aus Formel\obj\Debug\Graphen_aus_Formel.Properties.Resources.resources
+C:\Users\Clemens\Documents\Visual Studio 2012\Projects\Graphen aus Formel - Kopie\Graphen aus Formel\obj\Debug\Graphen aus Formel.csproj.GenerateResource.Cache
+I:\Graphen aus Formel\Graphen aus Formel\bin\Debug\Graphen aus Formel.exe.config
+I:\Graphen aus Formel\Graphen aus Formel\obj\Debug\Graphen aus Formel.exe
+I:\Graphen aus Formel\Graphen aus Formel\obj\Debug\Graphen aus Formel.pdb
+I:\Graphen aus Formel\Graphen aus Formel\bin\Debug\Graphen aus Formel.exe
+I:\Graphen aus Formel\Graphen aus Formel\bin\Debug\Graphen aus Formel.pdb
+I:\Graphen aus Formel\Graphen aus Formel\obj\Debug\Graphen aus Formel.csprojResolveAssemblyReference.cache
+I:\Graphen aus Formel\Graphen aus Formel\obj\Debug\Graphen_aus_Formel.Form1.resources
+I:\Graphen aus Formel\Graphen aus Formel\obj\Debug\Graphen_aus_Formel.Properties.Resources.resources
+I:\Graphen aus Formel\Graphen aus Formel\obj\Debug\Graphen aus Formel.csproj.GenerateResource.Cache
+F:\Graphen aus Formel\Graphen aus Formel\bin\Debug\Graphen aus Formel.exe.config
+F:\Graphen aus Formel\Graphen aus Formel\obj\Debug\Graphen aus Formel.exe
+F:\Graphen aus Formel\Graphen aus Formel\obj\Debug\Graphen aus Formel.pdb
+F:\Graphen aus Formel\Graphen aus Formel\bin\Debug\Graphen aus Formel.exe
+F:\Graphen aus Formel\Graphen aus Formel\bin\Debug\Graphen aus Formel.pdb
+F:\Graphen aus Formel\Graphen aus Formel\obj\Debug\Graphen aus Formel.csprojResolveAssemblyReference.cache
+F:\Graphen aus Formel\Graphen aus Formel\obj\Debug\Graphen_aus_Formel.Form1.resources
+F:\Graphen aus Formel\Graphen aus Formel\obj\Debug\Graphen_aus_Formel.Properties.Resources.resources
+F:\Graphen aus Formel\Graphen aus Formel\obj\Debug\Graphen aus Formel.csproj.GenerateResource.Cache
+C:\Users\Clemens\Documents\Visual Studio 2012\Projects\Graphen aus Formel\Graphen aus Formel\obj\Debug\Graphen_aus_Formel.Formel_bearbeiten.resources
+F:\Graphen aus Formel\Graphen aus Formel\obj\Debug\Graphen_aus_Formel.Formel_bearbeiten.resources
+G:\Graphen aus Formel\Graphen aus Formel\obj\Debug\Graphen_aus_Formel.Formel_bearbeiten.resources
+I:\Graphen aus Formel\Graphen aus Formel\obj\Debug\Graphen_aus_Formel.Formel_bearbeiten.resources
+C:\Users\clemens.ott\Desktop\Graphen aus Formel\Graphen aus Formel\bin\Debug\Graphen aus Formel.exe.config
+C:\Users\clemens.ott\Desktop\Graphen aus Formel\Graphen aus Formel\obj\Debug\Graphen aus Formel.exe
+C:\Users\clemens.ott\Desktop\Graphen aus Formel\Graphen aus Formel\obj\Debug\Graphen aus Formel.pdb
+C:\Users\clemens.ott\Desktop\Graphen aus Formel\Graphen aus Formel\bin\Debug\Graphen aus Formel.exe
+C:\Users\clemens.ott\Desktop\Graphen aus Formel\Graphen aus Formel\bin\Debug\Graphen aus Formel.pdb
+C:\Users\clemens.ott\Desktop\Graphen aus Formel\Graphen aus Formel\obj\Debug\Graphen aus Formel.csprojResolveAssemblyReference.cache
+C:\Users\clemens.ott\Desktop\Graphen aus Formel\Graphen aus Formel\obj\Debug\Graphen_aus_Formel.Form1.resources
+C:\Users\clemens.ott\Desktop\Graphen aus Formel\Graphen aus Formel\obj\Debug\Graphen_aus_Formel.Formel_bearbeiten.resources
+C:\Users\clemens.ott\Desktop\Graphen aus Formel\Graphen aus Formel\obj\Debug\Graphen_aus_Formel.Properties.Resources.resources
+C:\Users\clemens.ott\Desktop\Graphen aus Formel\Graphen aus Formel\obj\Debug\Graphen aus Formel.csproj.GenerateResource.Cache
+D:\Graphen aus Formel\Graphen aus Formel\obj\Debug\Graphen_aus_Formel.Formel_bearbeiten.resources
+C:\Users\Clemens\Documents\Visual Studio 2012\Projects\Graphen aus Formel\Graphen aus Formel\obj\Debug\Graphen_aus_Formel.Zahl_Einlesen.resources
+C:\Users\Clemens\Documents\Visual Studio 2012\Projects\Graphen aus Formel\Graphen aus Formel\obj\Debug\Graphen_aus_Formel.Hilfe.resources
+E:\Clemens\Dokumente\Visual Studio 2015\Projects\Graphen aus Formel\Graphen aus Formel\bin\Debug\Graphen aus Formel.exe.config
+E:\Clemens\Dokumente\Visual Studio 2015\Projects\Graphen aus Formel\Graphen aus Formel\obj\Debug\Graphen aus Formel.exe
+E:\Clemens\Dokumente\Visual Studio 2015\Projects\Graphen aus Formel\Graphen aus Formel\obj\Debug\Graphen aus Formel.pdb
+G:\Users\Clemens\Documents\Visual Studio 2015\Projects\Graphen aus Formel\Graphen aus Formel\bin\Debug\Graphen aus Formel.exe.config
+G:\Users\Clemens\Documents\Visual Studio 2015\Projects\Graphen aus Formel\Graphen aus Formel\obj\Debug\Graphen aus Formel.exe
+G:\Users\Clemens\Documents\Visual Studio 2015\Projects\Graphen aus Formel\Graphen aus Formel\obj\Debug\Graphen aus Formel.pdb
+G:\Users\Clemens\Documents\Visual Studio 2015\Projects\Graphen aus Formel\Graphen aus Formel\bin\Debug\Graphen aus Formel.exe
+G:\Users\Clemens\Documents\Visual Studio 2015\Projects\Graphen aus Formel\Graphen aus Formel\bin\Debug\Graphen aus Formel.pdb
+G:\Users\Clemens\Documents\Visual Studio 2015\Projects\Graphen aus Formel\Graphen aus Formel\obj\Debug\Graphen aus Formel.csprojResolveAssemblyReference.cache
+G:\Users\Clemens\Documents\Visual Studio 2015\Projects\Graphen aus Formel\Graphen aus Formel\obj\Debug\Graphen_aus_Formel.Form1.resources
+G:\Users\Clemens\Documents\Visual Studio 2015\Projects\Graphen aus Formel\Graphen aus Formel\obj\Debug\Graphen_aus_Formel.Formel_bearbeiten.resources
+G:\Users\Clemens\Documents\Visual Studio 2015\Projects\Graphen aus Formel\Graphen aus Formel\obj\Debug\Graphen_aus_Formel.Hilfe.resources
+G:\Users\Clemens\Documents\Visual Studio 2015\Projects\Graphen aus Formel\Graphen aus Formel\obj\Debug\Graphen_aus_Formel.Properties.Resources.resources
+G:\Users\Clemens\Documents\Visual Studio 2015\Projects\Graphen aus Formel\Graphen aus Formel\obj\Debug\Graphen_aus_Formel.Zahl_Einlesen.resources
+G:\Users\Clemens\Documents\Visual Studio 2015\Projects\Graphen aus Formel\Graphen aus Formel\obj\Debug\Graphen aus Formel.csproj.GenerateResource.Cache
